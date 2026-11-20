@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      (function () {
+        try {
+          var desc = Object.getOwnPropertyDescriptor(window, 'fetch');
+          if (desc && desc.configurable && typeof desc.get === 'function' && typeof desc.set === 'undefined') {
+            var origGet = desc.get;
+            var customFetch = null;
+            Object.defineProperty(window, 'fetch', {
+              configurable: true,
+              enumerable: Boolean(desc.enumerable),
+              get: function () { return customFetch || origGet.call(window); },
+              set: function (fn) { if (typeof fn === 'function') customFetch = fn; }
+            });
+          }
+        } catch (e) {}
+        function isExtErr(msg, src, stack) {
+          var s = String(src || '') + ' ' + String(stack || '');
+          if (s.indexOf('chrome-extension://') !== -1 || s.indexOf('moz-extension://') !== -1 || s.indexOf('safari-extension://') !== -1) {
+            return true;
+          }
+          return String(msg || '').indexOf('Cannot set property fetch of #<Window> which has only a getter') !== -1 && s.indexOf('/src/') === -1;
+        }
+        window.addEventListener('error', function (ev) {
+          if (isExtErr(ev && ev.message, ev && ev.filename, ev && ev.error && ev.error.stack)) {
+            ev.preventDefault();
+            ev.stopImmediatePropagation();
+          }
+        }, true);
+        window.addEventListener('unhandledrejection', function (ev) {
+          var r = ev && ev.reason;
+          if (isExtErr(r && r.message ? r.message : r, '', r && r.stack)) {
+            ev.preventDefault();
+            ev.stopImmediatePropagation();
+          }
+        }, true);
+      })();
+    </script>
+    <title>Digital Aghaz — Full-Service Digital Agency</title>
+    <meta
+      name="description"
+      content="Turn ideas into revenue-ready websites, standout brands, viral videos & AI automation. Launch faster with Digital Aghaz—start your project brief today."
+    />
+    <meta name="robots" content="index, follow" />
+    <meta name="theme-color" content="#0A0A0C" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="DigitalAghaz" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="/assets/aistudio/Digitak_Aghaz-01_c98303a5.png" />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Digital Aghaz" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:url" content="/" />
+    <meta property="og:title" content="Digital Aghaz — Full-Service Digital Agency" />
+    <meta
+      property="og:description"
+      content="Turn ideas into revenue-ready websites, standout brands, viral videos & AI automation. Launch faster with Digital Aghaz—start your project brief today."
+    />
+    <meta property="og:image" content="/assets/aistudio/Digitak_Aghaz-01_c98303a5.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="Digital Aghaz — Web Development, Branding, Video Production & AI Automation Agency"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Digital Aghaz — Full-Service Digital Agency" />
+    <meta
+      name="twitter:description"
+      content="Turn ideas into revenue-ready websites, standout brands, viral videos & AI automation. Launch faster with Digital Aghaz—start your project brief today."
+    />
+    <meta name="twitter:image" content="/assets/aistudio/Digitak_Aghaz-01_c98303a5.png" />
+    <meta
+      name="twitter:image:alt"
+      content="Digital Aghaz — Web Development, Branding, Video Production & AI Automation Agency"
+    />
+    <link rel="icon" type="image/png" href="/assets/aistudio/Digitak_Aghaz-01_c98303a5.png" />
+    <link rel="preload" as="image" href="/assets/aistudio/Digitak_Aghaz-01_c98303a5.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&family=Inter:wght@400;500;600&family=Manrope:wght@500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <script>
+      (function () {
+        try {
+          var savedTheme = localStorage.getItem('da_theme');
+          var theme = savedTheme === 'light' || savedTheme === 'dark'
+            ? savedTheme
+            : (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark');
+          var root = document.documentElement;
+          if (theme === 'dark') {
+            root.classList.add('dark');
+          } else {
+            root.classList.remove('dark');
+          }
+          var savedLang = localStorage.getItem('da_lang');
+          if (savedLang === 'ur') {
+            root.lang = 'ur';
+            root.dir = 'rtl';
+            root.classList.add('rtl');
+            root.classList.remove('ltr');
+          } else {
+            root.lang = 'en';
+            root.dir = 'ltr';
+            root.classList.add('ltr');
+            root.classList.remove('rtl');
+          }
+        } catch (e) {}
+      })();
+    </script>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfessionalService",
+        "name": "Digital Aghaz",
+        "description": "Turn ideas into revenue-ready websites, standout brands, viral videos & AI automation. Launch faster with Digital Aghaz—start your project brief today.",
+        "slogan": "Create. Innovate. Grow.",
+        "email": "salmancreatorlabs@gmail.com",
+        "telephone": "+923312427903",
+        "logo": "/assets/aistudio/Digitak_Aghaz-01_c98303a5.png",
+        "founder": {
+          "@type": "Person",
+          "name": "Muhammad Salman",
+          "jobTitle": "CEO"
+        }
+      }
+    </script>
+  </head>
+  <body class="bg-[#F8FAFC] text-[#0F172A] dark:bg-[#000000] dark:text-[#FFFFFF] antialiased selection:bg-[#EA0400] selection:text-white">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

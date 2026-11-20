@@ -1,0 +1,115 @@
+{
+  "id": "/",
+  "name": "Digital Aghaz — Full-Service Digital Agency",
+  "short_name": "DigitalAghaz",
+  "description": "Fast websites, standout brands, mobile apps, engaging videos, smart marketing, and practical AI automation built by one coordinated team.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#EA0400",
+  "background_color": "#0A0A0C",
+  "categories": ["business", "design", "productivity"],
+  "icons": [
+    {
+      "src": "/assets/aistudio/Digitak_Aghaz-01_c98303a5.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/aistudio/Digitak_Aghaz-01_c98303a5.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/og/graphic-design.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Graphic Design & Branding — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/web-development.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Website & E-Commerce Development — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/mobile-apps.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Mobile Apps & UI/UX Design — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/video-production.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Video Editing & Production — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/seo-marketing.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "SEO & Digital Marketing — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/social-media.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Social Media & Content Production — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/ai-automation.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "AI, Software & Automation — Digital Aghaz"
+    },
+    {
+      "src": "/assets/og/digital-products.jpg",
+      "sizes": "1200x900",
+      "type": "image/jpeg",
+      "label": "Digital Products & Tools — Digital Aghaz"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Graphic Design & Branding",
+      "short_name": "Branding",
+      "url": "/services/graphic-design",
+      "description": "Logos, brand guidelines, packaging, and social design kits."
+    },
+    {
+      "name": "Websites & E-Commerce",
+      "short_name": "Web Dev",
+      "url": "/services/web-development",
+      "description": "Fast business websites, Shopify stores, and custom web apps."
+    },
+    {
+      "name": "Mobile Apps & UI/UX",
+      "short_name": "Mobile Apps",
+      "url": "/services/mobile-apps",
+      "description": "Android & iOS apps and interactive mobile prototypes."
+    },
+    {
+      "name": "Video Editing & Production",
+      "short_name": "Video",
+      "url": "/services/video-production",
+      "description": "Reels, YouTube editing, and animated explainers."
+    },
+    {
+      "name": "SEO & Digital Marketing",
+      "short_name": "SEO & Ads",
+      "url": "/services/seo-marketing",
+      "description": "Search visibility, Google Ads, and Meta campaigns."
+    },
+    {
+      "name": "AI & Automation",
+      "short_name": "AI Tools",
+      "url": "/services/ai-automation",
+      "description": "Custom RAG assistants, chatbots, and workflow automation."
+    }
+  ]
+}

@@ -1,0 +1,2409 @@
+MASTER WEBSITE DESIGN PROMPT — DIGITAL AGHAZ
+1. YOUR ROLE
+Act as an elite multidisciplinary digital experience team consisting of:
+- A world-class creative director.
+- A senior UI/UX designer with 20+ years of design experience.
+- A premium 3D web experience designer.
+- A conversion-rate optimisation (CRO) specialist.
+- A brand identity strategist.
+- A senior frontend experience architect.
+- A motion graphics and interaction designer.
+- A website content and conversion strategist.
+- An accessibility and performance specialist.
+Your assignment is to design an extraordinary, premium, visually immersive and conversion-focused MULTI-PAGE WEBSITE for a full-service digital agency named:
+DIGITAL AGHAZ
+Do not create a generic agency template.
+Think in terms of the creative quality, brand storytelling, visual consistency, sophisticated motion and digital experiences associated with the world's leading creative and technology agencies.
+The final experience must feel internationally competitive, trustworthy, modern, technologically advanced and commercially persuasive.
+The website must be visually impressive without sacrificing usability, performance, accessibility or clarity.
+
+2. BUSINESS IDENTITY
+Brand name: DIGITAL AGHAZ
+Business type: Full-Service Digital Agency
+Target audience:
+- Pakistani businesses.
+- International businesses.
+- Startups.
+- Small and medium-sized companies.
+- E-commerce brands.
+- Educational institutions.
+- Restaurants and food businesses.
+- Content creators.
+- Entrepreneurs and personal brands.
+The agency provides creative, technical and digital growth services.
+Its major business capabilities are:
+1. Content and creative production.
+2. Client services.
+3. Digital products.
+4. AI-powered tools and business solutions.
+The agency should communicate one central idea:
+"Your business deserves more than just a digital presence. It deserves a digital experience built to grow."
+Position Digital Aghaz as a coordinated digital partner that can help businesses move from ideas and branding to websites, applications, marketing, automation and digital growth.
+Never claim to be an award-winning agency, market leader, internationally certified organisation or a company with hundreds of clients unless genuine evidence is supplied.
+
+3. MOST IMPORTANT: OFFICIAL LOGO PRESERVATION
+I am supplying the official Digital Aghaz logo as an image.
+THIS LOGO MUST REMAIN EXACTLY THE SAME.
+The logo consists of:
+- A distinctive black-and-red abstract DA-inspired symbol.
+- The word DIGITAL in black.
+- The word AGHAZ in red.
+Strict instructions:
+1. Use the exact supplied logo image.
+2. Never redesign, recreate, reinterpret or generate another logo.
+3. Never replace its typography.
+4. Never modify the symbol's geometry.
+5. Never change the spelling of DIGITAL AGHAZ.
+6. Preserve the original proportions and colour relationships.
+7. Never stretch, distort, crop or excessively shrink it.
+8. Make it visible in the navigation and footer.
+9. Ensure it looks professional on both light and dark backgrounds.
+10. Do not let generated graphics overlap the logo.
+The supplied logo is the official source of visual identity.
+
+4. VISUAL DESIGN SYSTEM
+Create a sophisticated design system based on the original logo.
+Primary palette:
+- Pure Black: #000000
+- Brand Red: #EA0400
+- Pure White: #FFFFFF
+- Charcoal: #111111
+- Soft Background: #F5F5F5
+- Neutral Grey: #858585
+Design direction:
+Premium editorial minimalism meets futuristic digital technology.
+Use:
+- Large, confident typography.
+- Sophisticated whitespace.
+- Bold visual hierarchy.
+- Beautiful asymmetric compositions.
+- Carefully balanced colour.
+- Cinematic full-width imagery.
+- Premium content cards.
+- Clean layouts.
+- Fine borders.
+- Subtle shadows.
+- Sophisticated depth.
+- Smooth, meaningful transitions.
+Use red strategically for important actions, selected elements, typography highlights and interactive details.
+Do not make the whole website red.
+Do not make every section black.
+Maintain a carefully controlled combination of light and dark sections.
+TYPOGRAPHY:
+Use an elegant modern type system.
+Recommended:
+- Headings: Manrope or Montserrat.
+- Body text and UI: Inter.
+Use large editorial headlines, readable body text, carefully controlled line lengths and responsive typography.
+Avoid cheap-looking fonts, excessive uppercase text and unnecessarily decorative typography.
+
+5. THE 3D EXPERIENCE — A MAJOR PRIORITY
+The website should have an extraordinary 3D visual identity.
+I want sophisticated, original 3D elements that make the website memorable.
+Develop an original visual concept around digital innovation, connected systems, creative technology and business growth.
+Use elements such as:
+- 3D abstract geometric structures.
+- Floating glass panels.
+- Dimensional interface cards.
+- Red and black metallic objects.
+- 3D spheres and particles.
+- Animated architectural forms.
+- Layered floating screens.
+- Abstract digital networks.
+- Depth-based visual compositions.
+- Subtle interactive 3D objects.
+- Original 3D illustrations representing different services.
+HERO EXPERIENCE:
+Create an impressive 3D hero scene.
+It should visually communicate that Digital Aghaz combines creativity, technology and business growth.
+The 3D object must have:
+- Realistic depth.
+- Sophisticated materials.
+- Subtle reflections.
+- Natural lighting.
+- Beautiful shadows.
+- Restrained red illumination.
+- Smooth and controlled motion.
+Use Three.js, React Three Fiber, WebGL, Spline or CSS-based 3D effects when appropriate for the implementation.
+Do not use random 3D objects merely to decorate the website.
+Every 3D object should support the business message.
+Use intelligent fallback visuals for mobile devices and reduced-motion settings.
+Performance must remain a priority.
+
+6. WEBSITE ARCHITECTURE — BUILD EVERY PAGE
+Build a proper multi-page website, not one long landing page pretending to be an entire agency website.
+Create the following pages and connect them through a consistent navigation system.
+PAGE 1 — HOMEPAGE
+This is the most important page.
+Its purpose is to establish credibility, create curiosity and motivate visitors to explore the agency's services.
+SECTION A: Navigation
+Create a premium sticky navbar.
+Include:
+- Official Digital Aghaz logo.
+- Home.
+- Services with an interactive dropdown.
+- Our Work.
+- About.
+- Insights.
+- Contact.
+- Prominent "Start a Project" button.
+The navigation must be elegant, responsive and accessible.
+On scrolling, use a subtle transition from the initial transparent appearance to a refined solid or glass background.
+SECTION B: Cinematic Hero
+The first screen must immediately communicate the agency's value.
+Suggested headline:
+"WE TURN IDEAS INTO DIGITAL EXPERIENCES THAT MOVE BUSINESSES FORWARD."
+Supporting statement:
+"From powerful branding and websites to intelligent automation and digital marketing, Digital Aghaz brings creativity and technology together to help businesses grow."
+Primary CTA:
+"Start Your Project"
+Secondary CTA:
+"Explore Our Work"
+Create an eye-catching original 3D visual beside or behind the headline.
+Include a small scroll indicator to suggest that more valuable content exists below.
+The hero must communicate three things within five seconds:
+1. Who Digital Aghaz is.
+2. What it provides.
+3. Why someone should explore further.
+SECTION C: The Brand Introduction
+Headline:
+"ONE PARTNER. MULTIPLE DIGITAL CAPABILITIES."
+Explain the agency's integrated approach.
+Use an elegant horizontal composition or animated content blocks to demonstrate how strategy, design, development, marketing and automation work together.
+SECTION D: Services Overview
+Create a premium service grid with individually designed interactive cards.
+Show the following service categories:
+1. Graphic Design & Branding.
+2. Website & E-commerce Development.
+3. Mobile Applications & UI/UX.
+4. Video Editing & Production.
+5. SEO & Digital Marketing.
+6. Social Media & Content Production.
+7. AI, Software & Automation.
+8. Digital Products & Tools.
+Each card must have:
+- A distinctive visual illustration.
+- A concise explanation.
+- A relevant icon or 3D element.
+- An interactive hover state.
+- A clear link to its individual service page.
+SECTION E: Why Digital Aghaz?
+Headline:
+"THE RIGHT DIGITAL THINKING CHANGES EVERYTHING."
+Present the agency's approach through meaningful benefits:
+- Integrated creative and technical capabilities.
+- Business-focused solutions.
+- Consistent visual quality.
+- Thoughtful digital experiences.
+- Practical automation opportunities.
+- Clear project communication.
+Do not present unsupported claims as proven facts.
+SECTION F: Selected Work
+Create a visually impressive portfolio showcase.
+Use large visual project cards.
+Include project categories:
+- Branding.
+- Websites.
+- E-commerce.
+- Video production.
+- Marketing campaigns.
+- AI and automation.
+Use genuine supplied portfolio material if available.
+If no real projects have been provided, create clearly labelled conceptual demonstrations.
+Never invent real clients, partnerships, testimonials or measurable results.
+SECTION G: The Digital Process
+Headline:
+"FROM FIRST IDEA TO FINAL EXECUTION."
+Show an attractive interactive process:
+01 — Discover
+Understand the business, objectives and requirements.
+02 — Strategise
+Develop the right creative and technical direction.
+03 — Create
+Design, develop and produce the agreed solution.
+04 — Refine
+Review, test and improve the deliverables.
+05 — Launch & Support
+Deliver the approved project and provide agreed post-launch support.
+Use a visually compelling horizontal timeline on desktop and a vertical timeline on mobile.
+SECTION H: Industries We Work With
+Create visually rich cards for:
+- E-commerce.
+- Education.
+- Restaurants.
+- Startups.
+- Creators.
+- Small and medium-sized businesses.
+SECTION I: Insights and Knowledge
+Showcase useful articles, digital trends, practical guides, AI insights and technology education.
+Include a "Explore Insights" CTA.
+SECTION J: Frequently Asked Questions
+Create attractive expandable FAQ accordions.
+Cover:
+- What services do you provide?
+- Can you build a complete business website?
+- Do you develop mobile applications?
+- Can you manage digital marketing?
+- Do you offer AI automation?
+- Do you work with international clients?
+- How does your project process work?
+- How can someone request a quotation?
+Do not invent fixed prices, delivery times or guarantees.
+SECTION K: Final Conversion Section
+Create an extraordinary closing CTA.
+Headline:
+"YOUR NEXT BIG IDEA DESERVES A POWERFUL DIGITAL BEGINNING."
+Supporting text:
+"Let's turn your vision into something meaningful."
+Primary button:
+"Let's Build Something"
+Secondary action:
+"Discuss Your Project"
+Use a sophisticated 3D composition or subtle animated brand-inspired visual.
+SECTION L: Footer
+Include:
+- Official logo.
+- Short agency introduction.
+- Service links.
+- Main navigation.
+- Contact placeholders.
+- Social media link placeholders.
+- Copyright.
+- Privacy Policy.
+- Terms and Conditions.
+Use editable placeholders for contact information.
+Never invent an email address, telephone number or social profile.
+
+PAGE 2 — SERVICES OVERVIEW
+Design a dedicated services page.
+Headline:
+"EVERY DIGITAL CAPABILITY YOUR BUSINESS NEEDS TO MOVE FORWARD."
+Introduce the agency's integrated service ecosystem.
+Show all eight service categories using distinctive layouts.
+Each service section should include:
+- A clear title.
+- An engaging introduction.
+- What the service includes.
+- The problems it addresses.
+- Relevant deliverables.
+- A related visual.
+- A CTA to explore that service.
+Provide a connected navigation system between services.
+
+PAGE 3 — GRAPHIC DESIGN & BRANDING
+Create a premium creative studio experience.
+Services:
+- Logo design.
+- Complete brand identity.
+- Social media creatives.
+- Advertising creatives.
+- Packaging.
+- Brochures.
+- Business cards.
+- Presentations.
+- Thumbnails.
+- Brand guidelines.
+Design requirements:
+Use beautiful brand mockups, identity presentations, editorial typography, packaging demonstrations and carefully composed design galleries.
+Create a visual storytelling section explaining how a brand identity develops from concept to final application.
+CTA: "Build Your Brand"
+
+PAGE 4 — WEBSITE & E-COMMERCE DEVELOPMENT
+Create a modern technology-focused page.
+Services:
+- Business websites.
+- Landing pages.
+- Portfolio websites.
+- E-commerce websites.
+- Shopify stores.
+- WooCommerce.
+- Custom web development.
+- Website maintenance.
+Use floating browser windows, dimensional website previews, interactive website mockups and subtle code-inspired visuals.
+Demonstrate the difference between a simple online presence and a professionally designed digital experience.
+CTA: "Build Your Website"
+
+PAGE 5 — MOBILE APPS & UI/UX
+Create a sophisticated product-design experience.
+Services:
+- UI design.
+- UX research.
+- Wireframes.
+- Interactive prototypes.
+- Android applications.
+- iOS applications.
+- Cross-platform applications.
+Include realistic device mockups, mobile interface showcases, product workflows and interactive design demonstrations.
+CTA: "Create Your App"
+Do not imply that every technical capability has already been delivered in production.
+
+PAGE 6 — VIDEO EDITING & PRODUCTION
+Create an immersive video-production studio page.
+Services:
+- Short-form editing.
+- Reels.
+- YouTube videos.
+- Advertising videos.
+- Explainer videos.
+- Cartoon videos.
+- AI-assisted videos.
+- Animation.
+- Motion graphics.
+Use large cinematic video thumbnails, visually engaging film strips, timeline-inspired graphics and beautiful video previews.
+Use authentic, rights-cleared media.
+Make the experience feel like a creative production studio.
+CTA: "Create Your Video"
+
+PAGE 7 — SEO & DIGITAL MARKETING
+Create a premium growth and marketing page.
+Services:
+- Search engine optimisation.
+- Keyword research.
+- Technical SEO.
+- Local SEO.
+- Content strategy.
+- Google Ads.
+- Meta Ads.
+- Lead generation.
+- Email marketing.
+- Marketing analytics.
+- Conversion optimisation.
+Use visually engaging analytical dashboards, search-inspired interfaces and interactive growth illustrations.
+Include a section titled:
+"VISIBILITY IS THE BEGINNING. CONVERSIONS ARE THE GOAL."
+Clearly distinguish genuine marketing performance from example dashboard demonstrations.
+CTA: "Grow Your Business"
+
+PAGE 8 — SOCIAL MEDIA & CONTENT
+Design a visually engaging social media creative studio.
+Services:
+- Social media management.
+- Content calendars.
+- Social media strategy.
+- Content production.
+- Publishing.
+- Community management.
+- Advertising creatives.
+- Copywriting.
+Show platform-neutral social media mockups without pretending to have official partnerships with social platforms.
+CTA: "Build Your Social Presence"
+
+PAGE 9 — AI, SOFTWARE & AUTOMATION
+This page should feel especially futuristic.
+Services:
+- AI agents.
+- RAG-based AI systems.
+- Customer support agents.
+- Voice agents.
+- Chatbots.
+- Workflow automation.
+- MCP integrations.
+- Business integrations.
+- Dashboards and web applications.
+Use original visual representations of connected AI systems, flowing data, 3D networks, floating interface screens and interactive technology diagrams.
+Headline:
+"INTELLIGENCE THAT WORKS BEHIND YOUR BUSINESS."
+Explain practical business use cases:
+- Reducing repetitive tasks.
+- Automating workflows.
+- Supporting customer communication.
+- Connecting business tools.
+- Organising information.
+- Improving internal processes.
+Never claim that AI systems are completely autonomous or perfectly accurate.
+CTA: "Explore AI Solutions"
+
+PAGE 10 — DIGITAL PRODUCTS & TOOLS
+Create an attractive digital marketplace-style experience.
+Possible products:
+- Editable templates.
+- Ready-made reels.
+- Digital bundles.
+- E-books.
+- Courses.
+- Design resources.
+- AI learning resources.
+- Digital tools.
+Use modern product cards, visually impressive digital mockups, category filters and clear product details.
+Do not add fake prices, fake discounts, fake stock counters or checkout functionality without actual product and payment configuration.
+CTA: "Explore Digital Products"
+
+PAGE 11 — OUR WORK / PORTFOLIO
+Build an exceptional portfolio page.
+Use a premium editorial gallery.
+Include category filters:
+- Branding.
+- Web Design.
+- Applications.
+- Video.
+- Marketing.
+- AI Solutions.
+Each project should open a dedicated project-details layout containing:
+- Project introduction.
+- Project objective.
+- Challenges.
+- Strategy.
+- Creative execution.
+- Final deliverables.
+- Genuine measurable outcomes, when supplied.
+If demonstration projects are created, label them clearly as "Concept Project" or "Demo Project".
+Make the visuals the main attraction.
+
+PAGE 12 — ABOUT DIGITAL AGHAZ
+Create an emotionally engaging, professional brand story.
+Headline:
+"WE BELIEVE EVERY GOOD IDEA DESERVES A BETTER DIGITAL BEGINNING."
+Explain the agency's purpose, creative thinking, technical capabilities and business philosophy.
+Include:
+- Our story.
+- Our mission.
+- Our approach.
+- Our capabilities.
+- Our working philosophy.
+- Team section with editable profile placeholders.
+Avoid invented biographies, personal details and unsupported experience claims.
+
+PAGE 13 — INSIGHTS / BLOG
+Create a modern editorial content experience.
+Categories:
+- AI.
+- Technology.
+- Digital Marketing.
+- Web Development.
+- Branding.
+- Business Growth.
+- Tutorials.
+Use attractive article cards, featured articles, search and category filtering.
+Design a separate article detail page with excellent typography and related articles.
+
+PAGE 14 — CONTACT / START A PROJECT
+This is a major conversion page.
+Headline:
+"LET'S DISCUSS WHAT YOU WANT TO BUILD."
+Include a premium project inquiry form with:
+- Full name.
+- Business email.
+- Company or brand.
+- Country.
+- Interested service.
+- Project description.
+- Estimated budget (optional).
+- Expected timeline (optional).
+- Additional requirements.
+Allow multiple service selections.
+Include an attractive form design with clear validation and success/error states.
+Add editable contact and WhatsApp placeholders.
+Do not create fake contact information.
+The form must have a clear frontend design; mark the submission integration as requiring a real backend or form provider.
+
+7. COMMERCIAL-USE PHOTOGRAPHY AND VIDEO
+This requirement is extremely important.
+Use attractive, authentic and commercially licensed images and video footage from legitimate internet stock libraries.
+Preferred sources:
+- Pexels — photos and videos.
+- Pixabay — photos, videos and other media.
+- Unsplash — photography.
+Find media that genuinely supports the section's message.
+Search for:
+- Modern creative studios.
+- Business meetings.
+- Technology environments.
+- Professional design workspaces.
+- Digital interfaces.
+- E-commerce operations.
+- Video production.
+- Modern architecture.
+- Abstract technological visuals.
+Do not use random stock photos just to fill empty spaces.
+Commercial-use requirements:
+1. Check the applicable license of each asset.
+2. Verify whether attribution is required.
+3. Check restrictions involving identifiable people, trademarks, property and third-party rights.
+4. Never use copyrighted images or videos copied from competitor websites.
+5. Never use YouTube, Instagram or other creators' videos without appropriate permission or licensing.
+6. Do not assume every image found through a search engine is commercially usable.
+7. Do not use assets that suggest an unrelated company endorses Digital Aghaz.
+8. Retain the source URL, creator and license information for every selected asset.
+9. Use licensed video footage for hero sections and service presentations.
+10. Use genuine, professionally edited media rather than visibly generic placeholder images.
+Maintain a simple asset register containing the asset name, source, creator, license and any required attribution.
+Use stock footage only when it contributes to the storytelling.
+
+8. ADVANCED MOTION AND USER INTERACTIONS
+Create a polished interactive experience.
+Implement appropriate examples of:
+- Scroll-triggered reveals.
+- Smooth section transitions.
+- 3D parallax.
+- Subtle image depth.
+- Interactive service cards.
+- Refined button animations.
+- Animated navigation indicators.
+- Horizontal scrolling showcases where appropriate.
+- Sticky storytelling sections.
+- Elegant page transitions.
+- Subtle cursor interactions on desktop.
+- Interactive portfolio filtering.
+- Expandable FAQs.
+- Micro-interactions.
+- Smooth modal and dropdown behaviour.
+The user should feel that the website responds intelligently to interaction.
+Motion must have a purpose.
+Avoid:
+- Excessive scrolling effects.
+- Unnecessary loading screens.
+- Aggressive cursor effects.
+- Constantly moving background elements.
+- Distracting animation.
+- Unwanted autoplay audio.
+- Popups that interrupt visitors.
+Respect reduced-motion accessibility settings.
+Videos may autoplay only when muted, with a poster fallback and appropriate mobile behaviour.
+
+9. CONVERSION PSYCHOLOGY AND RETENTION
+This website must be designed to encourage meaningful exploration.
+Apply the following principles:
+A. Five-second clarity
+Visitors should immediately understand what the agency does and how to take the next step.
+B. Progressive disclosure
+Do not reveal everything at once.
+Present information in a logical sequence that rewards exploration.
+C. Curiosity-driven storytelling
+Every page should begin with a specific, compelling headline.
+Use meaningful questions, clear business problems and engaging visual narratives.
+D. Visual hierarchy
+Guide attention through:
+- Headline.
+- Explanation.
+- Proof.
+- Service or solution.
+- CTA.
+E. Information scent
+Navigation labels, cards and links must clearly communicate where they lead.
+F. Micro-commitments
+Allow visitors to explore services, view examples, read project processes and eventually submit an inquiry.
+G. Repeated contextual CTAs
+Place action buttons after meaningful content sections, not randomly.
+H. Trust before selling
+Show the process, deliverables, genuine examples and project expectations before asking visitors to make a commitment.
+I. Ethical persuasion
+Do not use fake countdown timers, fabricated client numbers, misleading reviews, false scarcity or manipulative popups.
+The website should be persuasive because of the quality of its presentation and information.
+
+10. RESPONSIVE DESIGN
+Design every page for:
+- Large desktop.
+- Standard desktop.
+- Laptop.
+- Tablet.
+- Mobile.
+Requirements:
+- Responsive navigation.
+- Mobile-specific layout adjustments.
+- Readable typography.
+- Proper spacing.
+- Touch-friendly buttons.
+- Optimised images.
+- Lightweight motion.
+- Mobile-appropriate 3D fallbacks.
+- No horizontal overflow.
+- No overlapping elements.
+- No broken grids.
+Do not simply shrink desktop designs to fit mobile.
+Design mobile experiences intentionally.
+
+11. ACCESSIBILITY AND PERFORMANCE
+The website must be designed for real-world production.
+Requirements:
+- Strong colour contrast.
+- Accessible keyboard navigation.
+- Clear focus indicators.
+- Proper form labels.
+- Descriptive image alternatives.
+- Semantic page hierarchy.
+- Appropriate heading structure.
+- Reduced-motion support.
+- Optimised video and image assets.
+- Lazy loading below the fold.
+- Efficient animations.
+- Lightweight 3D scenes.
+- Responsive image sizing.
+Aim for excellent Core Web Vitals performance.
+Do not sacrifice performance for decorative effects.
+
+12. CONTENT QUALITY AND BRAND VOICE
+Use professional, persuasive and natural English.
+The writing style must be:
+- Confident.
+- Intelligent.
+- Modern.
+- Clear.
+- Professional.
+- Human.
+- Business-focused.
+Avoid:
+- Generic AI-generated marketing phrases.
+- Repeated paragraphs.
+- Overly complicated technical language.
+- Fake promises.
+- Unnecessary buzzwords.
+- Huge blocks of text.
+- Repeated use of "We are the best".
+Every page should have its own identity while maintaining the same brand voice.
+
+13. COMPETITIVE BENCHMARKING
+Use the supplied competitor research document as strategic context.
+The research includes Pakistan-based agencies such as:
+- JSK Corporation.
+- Techsion.
+- Trivx Solutions.
+- Innovify Lab.
+- CodeFier.
+- Tayr Digital.
+- E Design Services.
+- UMA Tech & Marketing.
+- altMedia.
+- BrandSpark.
+It also includes international benchmarks such as:
+- Digital Silk.
+- Brafton.
+- WebFX.
+- SmartSites.
+- DEPT.
+- VML.
+- R/GA.
+- AKQA.
+- Accenture Song.
+- Huge.
+Study the principles of premium agency presentation:
+- Strong brand positioning.
+- Clear service architecture.
+- Excellent portfolio presentation.
+- Integrated service storytelling.
+- Professional content hierarchy.
+- Sophisticated digital experiences.
+- Strong conversion journeys.
+These companies are quality benchmarks, not design templates to copy.
+Never copy their branding, content, website layouts, images or proprietary creative assets.
+Digital Aghaz must have its own recognizable visual personality.
+
+14. DESIGN SYSTEM CONSISTENCY
+Create a reusable design system.
+Define:
+- Brand colours.
+- Typography scale.
+- Spacing.
+- Grid.
+- Buttons.
+- Cards.
+- Navigation.
+- Form elements.
+- Icons.
+- Shadows.
+- Border radius.
+- Animation rules.
+- Responsive behaviour.
+Every page must follow the same design system.
+Use reusable visual components wherever appropriate.
+Do not let different pages look like separate websites.
+
+15. FINAL OUTPUT REQUIREMENTS
+I expect a complete and professionally structured multi-page website design.
+Do not stop after creating the homepage.
+Create the full website architecture and all requested page screens.
+Ensure that:
+1. All pages have consistent branding.
+2. Navigation connects the pages logically.
+3. Every important button has a meaningful destination.
+4. Service cards lead to their specific service pages.
+5. Portfolio cards open project details.
+6. Contact forms have complete designed states.
+7. Mobile and desktop layouts are both considered.
+8. All major sections have proper content.
+9. Images and videos have appropriate placement.
+10. All animations have a clear purpose.
+11. The original Digital Aghaz logo remains unchanged.
+12. The result looks premium, intentional and production-oriented.
+Where a real asset, contact detail, testimonial, client result or technical integration is missing, use a clearly identifiable editable placeholder rather than inventing information.
+Do not confuse a visual prototype with a completed production deployment.
+Create linked interactive prototypes wherever possible.
+If the platform supports exporting frontend code, preserve the page structure, responsive behaviour, component consistency and design tokens in that export.
+
+THE FINAL CREATIVE STANDARD
+I do not want an average agency website.
+I want the visual confidence of a premium international creative agency, the clarity of an excellent business website, the dimensional depth of a modern 3D experience and the conversion discipline of a professional digital product.
+Every section should give visitors a reason to continue exploring.
+Every page should communicate value.
+Every interaction should feel intentional.
+Every visual should reinforce the brand.
+The website must leave the visitor with one clear impression:
+"DIGITAL AGHAZ IS A SERIOUS DIGITAL PARTNER WORTH TALKING TO."
+Now create the complete Digital Aghaz website experience. 
+
+the backend
+(DIGITAL AGHAZ — ULTIMATE WEBSITE ENGINEERING, MOTION, 3D, BACKEND & SEO MASTER PROMPT
+MASTER INSTRUCTION
+You are now the lead engineering and creative technology team responsible for transforming my existing Digital Aghaz website into an exceptionally sophisticated, production-ready digital agency platform.
+I am providing the existing website export as a ZIP file.
+Your first responsibility is to inspect the entire codebase, understand its existing architecture, identify its design components, understand its navigation, and improve the existing implementation.
+THIS IS AN UPGRADE PROJECT, NOT A REDESIGN PROJECT.
+Preserve the existing Digital Aghaz brand identity, original logo, design philosophy, page layouts, written content where accurate, and overall visual direction.
+Do not replace my current website with a generic template.
+Your goal is to achieve five things:
+1. Transform the website into an immersive, advanced animated experience.
+2. Introduce sophisticated 3D elements that look professionally art-directed.
+3. Implement a working and secure backend with lead management.
+4. Make the website conversion-focused so suitable visitors are encouraged to become clients.
+5. Build a comprehensive technical, on-page and off-page SEO foundation.
+Do not merely provide recommendations or code examples.
+Actually inspect, implement, integrate, test, debug and optimise the existing project.
+
+PART 1 — INITIAL CODEBASE AUDIT
+Before changing any files, perform a complete technical audit.
+Inspect every HTML page, asset, design-system file, script, stylesheet, navigation link and interactive element in the uploaded ZIP.
+The existing export contains these principal screens:
+- Digital Aghaz Flagship Experience.
+- Digital Aghaz Capabilities & Services.
+- Digital Aghaz Start a Project.
+- Digital Aghaz Portfolio & Case Studies.
+- Digital Aghaz Graphic Design & Branding.
+- Digital Aghaz AI & Automation.
+- Digital Aghaz Design System.
+Identify:
+- Existing page structures.
+- Repeated interface elements.
+- Existing Three.js implementation.
+- Existing image assets.
+- Existing JavaScript.
+- Broken navigation.
+- Missing destinations.
+- Duplicate code.
+- Missing metadata.
+- Non-functional buttons.
+- Incomplete forms.
+- Inaccessible interactions.
+- Unoptimised assets.
+- Security weaknesses.
+- Missing mobile behaviour.
+Create an implementation checklist.
+Do not delete existing working sections without a clear reason.
+Pay special attention to the existing navigation because several exported links do not match the actual exported file structure.
+Create one reliable routing architecture and correct all internal links.
+The original Three.js hero must be improved rather than duplicated with another competing scene.
+The current design uses:
+- Brand red: #EA0400
+- Black: #000000
+- White: #FFFFFF
+- Charcoal: #111111
+- Soft background: #F5F5F5
+- Manrope headings.
+- Inter body typography.
+- Fira Code technical labels.
+Preserve this system.
+Architecture decision
+Inspect the existing technology before selecting a stack.
+If it is still a collection of standalone HTML exports, migrate to a maintainable production architecture, preferably:
+- Next.js App Router.
+- React.
+- TypeScript.
+- Production-installed Tailwind CSS.
+- Reusable components.
+- Server-side or static rendering where appropriate.
+If the project already uses an appropriate production framework, retain it instead of unnecessarily rewriting everything.
+Do not use Tailwind's browser CDN as the production styling solution.
+Use compatible, maintained versions of dependencies. Do not blindly install outdated packages or overwrite the project configuration.
+Create a clean component architecture with reusable navigation, footer, service cards, CTA sections, animations, forms, modals and portfolio components.
+
+PART 2 — ADVANCED WEBSITE MOTION ENGINE
+This is one of the highest priorities.
+Build a complete, consistent animation system across the entire website.
+Do not animate only the homepage.
+Every major page, section and interactive component should have a carefully designed motion behaviour.
+Use GSAP with ScrollTrigger as the primary advanced storytelling animation system.
+Use Motion for React only where it provides useful component-level interactions.
+Avoid installing multiple overlapping animation libraries unnecessarily.
+A. Global page transitions
+Implement premium page-to-page transitions.
+Requirements:
+- Elegant page entrances.
+- Smooth page exits.
+- Refined opacity transitions.
+- Controlled vertical movement.
+- Optional brand-red transition accents.
+- No disruptive full-screen animations.
+- No blank-screen delays.
+- No broken browser back/forward navigation.
+Transitions must be fast and feel intentional.
+Ensure routes remain accessible to search engines.
+B. Homepage hero animation
+Develop an outstanding opening experience.
+On initial page load:
+1. Introduce the logo and navigation elegantly.
+2. Reveal the hero headline in carefully timed groups.
+3. Animate highlighted red words independently.
+4. Reveal the supporting description.
+5. Introduce the CTA buttons.
+6. Reveal the 3D visual with depth and perspective.
+7. Add subtle floating particles or atmospheric elements.
+8. Introduce a sophisticated scroll indicator.
+Use premium text-mask, clip-path, stagger and opacity animations.
+The hero should resemble a professionally art-directed digital experience rather than a generic AI-generated website.
+Do not delay the main heading until after the entire animation finishes.
+The actual headline must remain available in the rendered HTML.
+C. Advanced text animation
+Implement a consistent collection of text effects:
+- Character-by-character reveals where appropriate.
+- Word-by-word stagger.
+- Line-by-line headline reveals.
+- Text masking.
+- Gradient or brand-colour text transitions.
+- Subtle tracking transitions.
+- Scroll-triggered text reveals.
+- Highlight-line animations.
+- Animated numerical headings.
+- Editorial text entrances.
+Use readable, natural timing.
+Never animate every individual paragraph character-by-character.
+Do not make essential text invisible to search engines or assistive technology.
+Preserve screen-reader-readable text.
+D. Scroll-triggered animations
+Implement premium scroll interactions:
+- Section entrance reveals.
+- Image clipping and reveal.
+- Cards entering with staggered movement.
+- Horizontal storytelling where useful.
+- Sticky process timelines.
+- Layered image movements.
+- Controlled parallax.
+- Background transitions.
+- Scroll-linked decorative elements.
+- Section progress indicators.
+- Animated service illustrations.
+Use GSAP ScrollTrigger responsibly.
+Every animation must have a clear visual purpose.
+E. Button animation system
+Create different professional button interactions.
+Primary CTA:
+- Subtle background transition.
+- Slight directional movement.
+- Animated arrow.
+- Carefully controlled glow.
+- Smooth press response.
+Secondary CTA:
+- Border transformation.
+- Background reveal.
+- Refined text or icon movement.
+Other buttons:
+- Magnetic attraction on desktop, where suitable.
+- Hover elevation.
+- Ripple or light sweep where appropriate.
+- Loading state.
+- Disabled state.
+- Success state.
+- Error state.
+Do not use excessive bouncing, flashing or exaggerated scaling.
+All buttons must work, not merely look interactive.
+F. Service-card animation
+Create beautiful service cards featuring:
+- Subtle depth.
+- Layered hover effects.
+- Image movement.
+- Animated borders.
+- Icon transformations.
+- Red illumination accents.
+- Smooth card elevation.
+- Arrow transitions.
+- Carefully controlled perspective.
+Each card must lead to its correct service page.
+G. Navigation animation
+Implement:
+- Smooth dropdown entrances.
+- Active page indicators.
+- Mobile menu transitions.
+- Animated menu icon.
+- Sticky navigation.
+- Controlled navigation background changes.
+- Accessible keyboard interactions.
+Do not make navigation difficult to use on mobile.
+H. Portfolio and case-study animation
+Implement:
+- Animated category filtering.
+- Smooth project-card rearrangement.
+- Image reveal animations.
+- Hover image zoom.
+- Project-detail transitions.
+- Animated case-study timelines.
+- Sophisticated gallery interactions.
+Never invent real project results.
+I. FAQ and accordion animation
+Create elegant expandable FAQ interactions.
+Use smooth height and opacity transitions.
+Maintain proper accessibility, keyboard controls and expanded/collapsed states.
+J. Testimonial and review animation
+Create premium testimonial presentations.
+Use subtle quote-mark animation, staggered card entry, carousel transitions and carefully controlled emphasis.
+Only use real testimonials that have been supplied and verified.
+Do not generate fake customer comments, names, ratings or company logos.
+If there is no genuine testimonial, use a clearly identified testimonial placeholder until real feedback is supplied.
+K. Popup and modal animation
+Develop a complete popup system.
+Possible components:
+- Project inquiry modal.
+- Quick consultation modal.
+- Service-specific inquiry popup.
+- Exit-intent inquiry popup.
+- Newsletter subscription popup.
+- Portfolio detail modal.
+- Success confirmation modal.
+Animation requirements:
+- Background blur.
+- Refined overlay appearance.
+- Scale and opacity transitions.
+- Smooth content entrance.
+- Accessible close button.
+- Escape-key support.
+- Focus trapping.
+- Focus restoration.
+- Mobile-friendly bottom-sheet or modal layout.
+Conversion rules:
+- Never display a popup immediately on every page load.
+- Do not interrupt active form completion.
+- Respect dismissal.
+- Avoid displaying the same popup repeatedly.
+- Use engagement-based triggers rather than aggressive popups.
+- Provide a reduced-motion alternative.
+The popup should give visitors genuine value, such as discussing a project or exploring a relevant service.
+L. Toast, notifications and feedback
+Implement attractive animated feedback for:
+- Form submission.
+- Validation errors.
+- Successful operations.
+- Copy-to-clipboard.
+- Failed network requests.
+- Newsletter subscription.
+- Loading states.
+Never show a successful submission message before the server confirms the submission was saved.
+
+PART 3 — BESPOKE 3D VISUAL ENGINE
+Create a premium 3D visual system aligned with the existing black, red and white identity.
+The 3D elements must look intentionally designed by a professional 3D art director.
+Do not use generic AI-looking futuristic graphics.
+Do not simply place random spheres, glowing rings or floating cubes everywhere.
+Create a coherent visual language.
+A. Hero 3D object
+Upgrade the existing Three.js hero.
+Create a bespoke abstract technology structure with:
+- Sculptural metallic geometry.
+- Deep black surfaces.
+- Restrained brand-red highlights.
+- Detailed material response.
+- Realistic lighting.
+- Controlled reflections.
+- Layered depth.
+- Subtle particle movement.
+- Elegant rotation.
+- Responsive pointer interaction.
+The geometry should communicate connected systems, creativity and digital transformation.
+Do not alter or recreate the official logo as an alternative logo.
+B. Service-specific 3D visuals
+Create separate art-directed visual themes:
+Branding:
+A sculptural identity object with refined typography-inspired geometry and premium material surfaces.
+Web development:
+Floating layered browser interfaces and dimensional web components.
+Mobile applications:
+Realistic smartphone mockups with custom app interface compositions.
+Video production:
+A cinematic camera, timeline-inspired structures or film-inspired 3D elements.
+SEO and marketing:
+Connected analytical visualisations and dimensional data structures.
+Social media:
+Layered content tiles and interactive social-content compositions.
+AI and automation:
+An intricate interconnected system with flowing red light pathways.
+Digital products:
+Elegant dimensional product packages and interface mockups.
+C. Material and lighting standards
+Use:
+- Physically based rendering materials.
+- Controlled roughness.
+- Metallic surfaces.
+- Soft ambient lighting.
+- Directional lighting.
+- Subtle rim lighting.
+- Natural shadows.
+- Restrained reflections.
+- High-quality textures.
+- Appropriate tone mapping.
+Avoid excessive bloom, oversaturated neon and plastic-looking materials.
+D. Asset creation
+Prefer original custom 3D models designed for the Digital Aghaz visual identity.
+Use Blender-produced or properly licensed GLB/GLTF assets where appropriate.
+Use professionally art-directed compositions and carefully crafted PBR materials.
+For image assets, use legitimate commercially licensed media.
+Avoid obvious AI image-generation artefacts, misspelled text inside pictures, distorted human anatomy and fabricated screenshots.
+The result should look bespoke, polished and visually credible.
+Do not claim an asset was human-created unless its actual provenance supports that statement.
+E. 3D performance
+- Use dynamic imports for heavy 3D modules.
+- Compress GLB/GLTF assets.
+- Optimise textures.
+- Limit unnecessary polygons.
+- Cap device pixel ratio.
+- Pause scenes when off-screen or the tab is inactive.
+- Dispose of geometries, textures and renderers properly.
+- Use IntersectionObserver where appropriate.
+- Avoid continuous rendering when no animation is needed.
+- Provide a static image fallback.
+- Reduce 3D complexity on mobile.
+- Respect prefers-reduced-motion.
+- Handle WebGL failures gracefully.
+The 3D experience must not destroy page performance.
+
+PART 4 — FULL BACKEND DEVELOPMENT
+Turn the existing website from a visual prototype into a functioning business platform.
+Use a secure, maintainable backend.
+Preferred backend option:
+Supabase with PostgreSQL, Supabase Auth and server-side data access.
+A suitable alternative may be used if it matches the existing architecture better.
+Do not expose backend secrets or privileged credentials in browser JavaScript.
+A. Project inquiry backend
+Connect the existing Start a Project form to a real backend.
+The form should include:
+- Full name.
+- Email.
+- Company or brand.
+- Country.
+- Interested services.
+- Project requirements.
+- Budget preference.
+- Expected timeline.
+- Optional attachment where supported.
+- Consent where required.
+Implement:
+- Proper input names and IDs.
+- Client-side validation.
+- Server-side validation.
+- Data sanitisation.
+- Required-field checks.
+- Email format validation.
+- Secure submission.
+- Duplicate/spam protection.
+- Submission rate limiting.
+- Honeypot protection.
+- Optional Cloudflare Turnstile verification.
+- Clear loading states.
+- Meaningful error handling.
+- Verified success confirmation.
+Do not use client-side validation as the only security protection.
+B. Lead database
+Create a secure database table for project inquiries.
+Suggested fields:
+- ID.
+- Full name.
+- Email.
+- Company.
+- Country.
+- Services requested.
+- Project description.
+- Budget preference.
+- Timeline.
+- Attachment reference.
+- UTM source.
+- UTM medium.
+- UTM campaign.
+- Referrer.
+- Submission date.
+- Lead status.
+- Internal notes.
+Lead statuses:
+NEW
+CONTACTED
+QUALIFIED
+MEETING
+PROPOSAL_SENT
+NEGOTIATION
+WON
+LOST
+Add suitable timestamps and indexes.
+Restrict access through proper authentication and database security policies.
+Never allow public visitors to read other people's inquiries.
+C. Email automation
+Integrate a transactional email provider such as Resend or an equivalent.
+When a project inquiry succeeds:
+1. Save the lead to the database.
+2. Send a notification to the configured agency email.
+3. Send an appropriate acknowledgment to the customer.
+4. Record delivery errors for administrators.
+5. Show the confirmation to the visitor only after successful persistence.
+Use verified sending-domain configuration.
+Do not hardcode API keys.
+If credentials are unavailable, implement the integration structure and document exactly which environment variables are needed.
+D. Admin dashboard
+Create a private administrative dashboard.
+Include:
+- Secure login.
+- Protected routes.
+- Dashboard summary.
+- New inquiry notifications.
+- Lead management.
+- Lead search.
+- Lead filtering.
+- Lead status updates.
+- Internal notes.
+- Contact details.
+- Inquiry detail pages.
+- Portfolio management.
+- Blog management.
+- Service content management.
+Admin actions must require proper authorisation.
+Do not expose private client data in frontend bundles or public API responses.
+E. Portfolio and case-study backend
+Create manageable portfolio records.
+Fields:
+- Project name.
+- Slug.
+- Category.
+- Description.
+- Services.
+- Cover image.
+- Gallery.
+- Project status.
+- Publication date.
+- SEO title.
+- SEO description.
+- Featured status.
+Support:
+- Add.
+- Edit.
+- Delete.
+- Publish.
+- Unpublish.
+- Filter.
+- Search.
+Clearly distinguish conceptual demonstrations from real client work.
+F. Blog and insights backend
+Create a content management structure.
+Support:
+- Article title.
+- Slug.
+- Cover image.
+- Author.
+- Category.
+- Article content.
+- Excerpt.
+- Publication date.
+- Last updated date.
+- SEO title.
+- Meta description.
+- Canonical URL.
+- Draft/published status.
+Use secure content validation and sanitisation.
+Support proper article rendering and structured data.
+G. Security
+Implement:
+- Environment-variable secrets.
+- Authentication.
+- Authorisation.
+- Database access controls.
+- Rate limiting.
+- Input validation.
+- CSRF protection where applicable.
+- Safe output encoding.
+- Secure file uploads.
+- File-type and size limits.
+- HTTPS in production.
+- Security headers.
+- Appropriate Content Security Policy.
+- Secure error handling.
+- Audit logging for sensitive admin actions.
+Use least-privilege access.
+Do not store passwords in plain text.
+Do not commit .env files or production credentials.
+Create an .env.example file containing only variable names and safe placeholders.
+H. Website functionality
+Ensure all existing and new controls work:
+- Navigation.
+- Dropdowns.
+- Service pages.
+- Portfolio filters.
+- Project detail links.
+- Inquiry forms.
+- Popups.
+- FAQ accordions.
+- Search.
+- Blog categories.
+- Newsletter where configured.
+- Social sharing.
+- Contact links.
+- WhatsApp link where verified.
+- Mobile navigation.
+Never leave decorative buttons that do nothing.
+
+PART 5 — CONVERSION RATE OPTIMISATION
+The website must turn suitable visitors into qualified inquiries.
+Build a complete lead-generation journey.
+A. Conversion architecture
+Create the following visitor journey:
+Discovery
+→ Homepage
+→ Service exploration
+→ Relevant portfolio
+→ Trust and process information
+→ Project inquiry
+→ Backend confirmation
+→ Agency notification
+→ Follow-up.
+Every major section should contribute to the journey.
+B. CTA system
+Create strategically placed actions:
+- Start Your Project.
+- Explore Services.
+- View Our Work.
+- Discuss Your Project.
+- Request a Consultation.
+- Explore AI Solutions.
+- Build Your Brand.
+Use the correct CTA according to the content being displayed.
+Do not display the same CTA repeatedly without context.
+C. Lead qualification
+Create a simple multi-step inquiry experience.
+Step 1: Understand the visitor's business.
+Step 2: Select the required services.
+Step 3: Describe project goals.
+Step 4: Provide optional budget and timeline details.
+Step 5: Submit.
+Show progress.
+Preserve form data if a validation error occurs.
+Make optional fields genuinely optional.
+Allow visitors to say they do not know their budget yet.
+D. Conversion tracking
+Set up configurable event tracking.
+Suggested events:
+- hero_cta_click
+- service_card_click
+- portfolio_view
+- project_form_start
+- project_form_step_complete
+- project_form_submit
+- project_form_success
+- project_form_error
+- contact_click
+- whatsapp_click
+- newsletter_signup
+Use GA4 or a privacy-conscious alternative.
+Respect applicable consent requirements.
+Do not send personal information, email addresses or project descriptions into analytics event parameters.
+E. Trust and credibility
+Only present authentic proof.
+Audit the existing homepage and portfolio carefully.
+The existing design contains testimonial statements, project counts, performance numbers, impact claims and promised delivery timelines.
+Do not publish those claims as facts unless verified.
+In particular:
+- Remove fabricated customer testimonials.
+- Do not display unverified project counts.
+- Do not display unverified conversion improvements.
+- Do not present demo metrics as real client results.
+- Do not promise guaranteed rankings or revenue.
+- Do not promise delivery times without operational approval.
+Keep genuine conceptual portfolio projects, clearly marked as concept demonstrations.
+Use a professional process explanation where verified proof is not yet available.
+
+PART 6 — COMPLETE SEO IMPLEMENTATION
+SEO is a major requirement, not an optional finishing touch.
+Implement technical SEO, on-page SEO, content SEO, image SEO, local SEO foundations and an ethical off-page SEO strategy.
+Do not promise first-page rankings.
+The purpose is to make the website discoverable, understandable, crawlable and useful.
+A. Technical SEO
+Implement:
+- Server-rendered or statically generated indexable pages as appropriate.
+- Semantic HTML.
+- Clean routing.
+- Descriptive URL slugs.
+- Unique metadata for every indexable route.
+- Canonical URLs.
+- XML sitemap.
+- robots.txt.
+- Correct index/noindex controls.
+- Proper HTTP status codes.
+- Custom 404 page.
+- Redirects for replaced URLs.
+- Open Graph metadata.
+- Social-sharing metadata.
+- Favicon and web app icons.
+- Structured data where valid.
+- Internal linking.
+- Breadcrumb navigation where appropriate.
+- Mobile-friendly layouts.
+- HTTPS-ready configuration.
+- Image optimisation.
+- JavaScript rendering checks.
+- Duplicate-page prevention.
+Do not block important CSS, JavaScript or image resources required for rendering.
+Do not index staging environments or private admin pages.
+Never use robots.txt as a replacement for noindex when preventing indexing is required.
+B. Page-specific SEO
+Create a separate SEO configuration for every page.
+Each page must have:
+- Unique SEO title.
+- Unique meta description.
+- One clear primary topic.
+- Relevant secondary topics.
+- One clear main heading.
+- Meaningful subheadings.
+- Natural keyword placement.
+- Descriptive image alt text.
+- Descriptive internal links.
+- A relevant canonical URL.
+- Appropriate social-sharing image.
+Example target themes:
+Homepage:
+Full-service digital agency.
+Branding:
+Brand identity design and graphic design services.
+Web development:
+Business website and e-commerce development.
+Mobile applications:
+Mobile app development and UI/UX design.
+Video production:
+Professional video editing and production.
+SEO:
+SEO and digital marketing services.
+AI automation:
+AI automation and business workflow solutions.
+Use keyword research to validate the targets.
+Do not blindly repeat keywords or place unrelated location names throughout pages.
+Do not create thin pages merely to target multiple variations of a keyword.
+C. Structured data
+Implement appropriate JSON-LD structured data.
+Consider:
+- Organization.
+- WebSite.
+- BreadcrumbList.
+- Article.
+- LocalBusiness or ProfessionalService only where the business information supports it.
+Use accurate information only.
+Use the actual business name, contact information, verified website URL, and real social profile URLs.
+Do not invent:
+- Physical addresses.
+- Reviews.
+- Ratings.
+- Awards.
+- Business hours.
+- Social profiles.
+- Founding dates.
+Do not add fabricated review markup or misleading structured data.
+Validate every schema implementation.
+Structured data does not guarantee rich search results.
+D. Image and video SEO
+Implement:
+- Descriptive filenames.
+- Meaningful alt text.
+- Modern image formats such as AVIF and WebP.
+- Responsive image sizes.
+- Explicit image dimensions.
+- Lazy loading below the fold.
+- Priority loading for the actual hero image.
+- Proper video posters.
+- Descriptive captions where useful.
+- Video metadata.
+- Appropriate compression.
+Do not lazy-load the primary above-the-fold LCP image.
+Use original text content rather than embedding essential headings inside images.
+E. Internal linking
+Connect related pages logically.
+Examples:
+Homepage → Services → Individual Service → Portfolio → Contact.
+Blog Article → Related Service → Relevant Case Study → Inquiry.
+Use descriptive anchor text.
+Avoid broken links and orphaned pages.
+Create a clear XML sitemap containing only canonical, indexable URLs.
+F. Local and international SEO
+Digital Aghaz serves Pakistani and international business audiences.
+Implement a sensible structure for these markets.
+Use local business information only when verified.
+Do not invent a physical office or service-area address.
+Keep genuine business contact information consistent wherever it is displayed.
+If multiple language or country-specific versions are introduced, use appropriate hreflang relationships only when the pages are genuine equivalent alternatives.
+Do not create hundreds of duplicated location pages.
+G. Off-page SEO strategy
+Important: off-page SEO cannot be completed merely by writing frontend or backend code.
+Prepare a practical off-page SEO growth system.
+Include:
+- Google Business Profile readiness, where eligible.
+- Genuine business directory listings.
+- Accurate company profiles.
+- LinkedIn company presence.
+- Relevant industry partnerships.
+- Digital PR opportunities.
+- Legitimate guest contributions.
+- Original research and useful resources.
+- Portfolio case studies.
+- Shareable educational content.
+- Relevant community participation.
+- Quality backlink monitoring.
+- Brand mention monitoring.
+- Referral traffic tracking.
+Create an off-page SEO action plan inside the project documentation.
+Never use:
+- Purchased spam backlinks.
+- Private blog network links.
+- Automated link spam.
+- Fake reviews.
+- Fake directory listings.
+- Mass low-quality guest posts.
+- Keyword-stuffed anchor text schemes.
+Build trust through genuine relationships and valuable content.
+H. SEO performance monitoring
+Prepare integrations for:
+- Google Search Console.
+- Google Analytics 4, if selected.
+- XML sitemap submission.
+- Page indexing inspection.
+- Core Web Vitals reporting.
+- Broken link monitoring.
+- Search performance reporting.
+Create a documented setup guide for connecting the real website domain.
+
+PART 7 — ADVANCED PERFORMANCE ENGINEERING
+The website must remain smooth even on ordinary smartphones and computers.
+Target Google's good Core Web Vitals thresholds:
+- LCP: 2.5 seconds or less.
+- INP: below 200 milliseconds.
+- CLS: below 0.1.
+Improve:
+- JavaScript bundle size.
+- Image size.
+- Font loading.
+- Animation workload.
+- 3D rendering.
+- Server response time.
+- Third-party scripts.
+- Layout stability.
+- Route loading.
+Use:
+- Code splitting.
+- Dynamic imports.
+- Proper caching.
+- Optimised fonts.
+- Modern asset formats.
+- Lazy loading.
+- GPU-friendly transforms.
+- Efficient event listeners.
+- Reduced DOM complexity.
+Do not animate expensive layout properties unnecessarily.
+Prefer transform and opacity when appropriate.
+Do not allow animation libraries to create scroll lag.
+Test with simulated mobile conditions.
+
+PART 8 — ACCESSIBILITY AND USER EXPERIENCE
+Implement:
+- Semantic page structure.
+- Accessible form labels.
+- Keyboard navigation.
+- Visible focus states.
+- Proper button names.
+- Accessible modal behaviour.
+- Screen-reader-friendly content.
+- Colour contrast.
+- Reduced-motion support.
+- Responsive typography.
+- Touch-friendly controls.
+The website must remain usable when animations are disabled.
+No essential information should require hovering.
+Do not hide the main website content behind an elaborate loading animation.
+
+PART 9 — HUMAN-ART-DIRECTED CREATIVE QUALITY
+The final website must not look like a generic AI-produced agency template.
+Use a coherent creative direction across all pages.
+Pay particular attention to:
+- Original composition.
+- Visual storytelling.
+- Natural spacing.
+- Fine visual details.
+- Believable 3D material rendering.
+- Consistent light direction.
+- Carefully designed imagery.
+- Balanced typography.
+- Intentional animation pacing.
+- Realistic device mockups.
+- Professional photography.
+- Bespoke graphical elements.
+Use original 3D models or properly licensed professional assets.
+Avoid generic random AI images, synthetic-looking faces, fake client screenshots, distorted text and repetitive visual patterns.
+The aim is a carefully art-directed, individually designed agency experience.
+
+PART 10 — FINAL QUALITY ASSURANCE
+Do not declare the project finished after implementing animations.
+Perform a complete quality assurance process.
+Functional testing
+Test:
+- All internal routes.
+- All navigation links.
+- All CTAs.
+- All buttons.
+- All forms.
+- All validation states.
+- All modal interactions.
+- All FAQ elements.
+- All portfolio filters.
+- All admin routes.
+- All backend operations.
+- All email integrations.
+- All error states.
+SEO testing
+Check:
+- Unique titles.
+- Unique descriptions.
+- Canonical URLs.
+- Robots directives.
+- Sitemap.
+- Structured data.
+- Internal links.
+- Indexable HTML.
+- Image alt text.
+- Redirects.
+- 404 responses.
+Responsive testing
+Test:
+- Desktop.
+- Laptop.
+- Tablet.
+- Small mobile.
+- Large mobile.
+Motion testing
+Check:
+- Animation timing.
+- Scroll triggers.
+- No flickering.
+- No overlapping elements.
+- No unwanted horizontal overflow.
+- No broken route transitions.
+- Reduced-motion behaviour.
+- Mobile performance.
+- WebGL fallback.
+Technical testing
+Run the project's available:
+- Lint checks.
+- Type checks.
+- Production build.
+- Unit tests.
+- Integration tests.
+- End-to-end tests where practical.
+- Lighthouse audits.
+Resolve actual errors rather than concealing them.
+
+PART 11 — DELIVERABLES
+When you finish, provide:
+1. Updated source code.
+2. Complete reusable component architecture.
+3. Complete animation system.
+4. Optimised 3D scenes and assets.
+5. Functional website routes.
+6. Working backend.
+7. Database schema and migrations.
+8. Secure lead-management system.
+9. Admin dashboard.
+10. Email integration.
+11. SEO metadata configuration.
+12. Structured data.
+13. Sitemap and robots configuration.
+14. Security configuration.
+15. Environment variable example.
+16. Deployment instructions.
+17. Integration instructions.
+18. Final testing report.
+19. Outstanding issues and required credentials.
+20. Off-page SEO execution checklist.
+Do not fabricate test results or claim integrations have been configured when credentials are unavailable.
+If an external integration needs an API key, build the integration and document the required configuration.
+Do not overwrite or discard original assets.
+Maintain a clear record of architectural changes.
+
+FINAL EXECUTION INSTRUCTION
+Treat this as a serious international digital agency website, not a practice project.
+Preserve my existing design.
+Make it technically stronger, visually more sophisticated, commercially persuasive, secure, fast, accessible and search-engine-friendly.
+The final website should combine:
+PREMIUM DESIGN
++
+CINEMATIC 3D
++
+ADVANCED MOTION
++
+REAL BACKEND
++
+SECURE LEAD MANAGEMENT
++
+CONVERSION OPTIMISATION
++
+COMPREHENSIVE SEO
++
+PRODUCTION PERFORMANCE
+The experience must feel like a bespoke digital product engineered by an exceptional creative and engineering team.
+First audit the uploaded codebase. Then implement the upgrade in controlled stages. Run tests after each major stage. Do not stop at an implementation plan.
+Deliver working code, not just a beautiful demonstration.
+DIGITAL AGHAZ — CREATE. INNOVATE. GROW.) and the other thing (DIGITAL AGHAZ — MASTER FULL-STACK UPGRADE PROMPT
+3D EXPERIENCE • UI/UX • BILINGUAL • THEMES • ADMIN • EMAIL • SECURITY • PERFORMANCE
+1. ROLE
+Act as a Principal Full-Stack Engineer, Three.js/WebGL Specialist, Senior UI/UX Designer, Motion Designer, Backend Architect, Accessibility Engineer and Technical SEO Specialist.
+You have been assigned to improve an existing commercial digital agency website named DIGITAL AGHAZ.
+Your objective is to transform the existing website into a highly professional, modern, visually impressive and fully functional digital agency platform.
+This is an EXISTING PROJECT UPGRADE.
+Do not create another website from scratch.
+Do not replace working components unnecessarily.
+Do not remove existing functionality.
+Do not break existing routing, backend integrations, customer inquiries or stored leads.
+Work directly with the provided project files.
+2. PROJECT FILES AND EXISTING ARCHITECTURE
+There are two supplied project folders:
+A. Digital Aghaz/
+This contains the existing Next.js application and backend.
+B. stitch_digital_aghaz_agency_website/
+This contains the six original Google Stitch frontend exports and the official design system.
+The Next.js application already contains these important files:
+- src/components/Hero3D.tsx
+- src/components/Service3D.tsx
+- src/components/Navbar.tsx
+- src/components/CapabilitiesGrid.tsx
+- src/components/MotionReveal.tsx
+- src/components/AuthenticProofSection.tsx
+- src/components/InquiryModal.tsx
+- src/components/FAQAccordion.tsx
+- src/components/FinalCTA.tsx
+- src/components/Footer.tsx
+- src/components/ToastContainer.tsx
+Existing backend and integration files include:
+- src/lib/supabase.ts
+- src/lib/email.ts
+- src/lib/security.ts
+- src/lib/rateLimit.ts
+- src/lib/events.ts
+- src/app/api/admin/auth/request-link/route.ts
+- src/app/api/admin/auth/verify/route.ts
+- src/app/api/admin/auth/check/route.ts
+- src/app/api/admin/auth/logout/route.ts
+- src/app/api/admin/leads/route.ts
+- src/app/api/inquiries/route.ts
+- src/app/admin/page.tsx
+- supabase_migration.sql
+- .leads_data.json
+The website also contains:
+- Homepage.
+- Services.
+- Portfolio.
+- Insights.
+- Start a Project.
+- Individual service pages.
+- Admin portal.
+- Existing SEO sitemap and robots configuration.
+These are existing project structures, not permission to replace them.
+First inspect the actual source code, installed dependencies, package.json, environment variable names, database migrations, existing APIs and all callers.
+The production build directory (.next) is not a replacement for source code.
+IMPORTANT SECURITY RULE:
+Inspect .env.example and configuration requirements, but NEVER print, expose, copy into frontend code, commit or disclose secret values from .env.local.
+Do not include API keys, SMTP passwords, database service-role keys, authentication tokens or private credentials in generated documentation or terminal output.
+3. PONYTAIL — LAZY SENIOR DEVELOPER MODE
+Follow these engineering rules throughout the entire project.
+You are a lazy senior developer. The best code is the code never written. Solve the whole problem with the least new code.
+Before you write
+Read the task and the code it touches.
+List every place your change must reach: callers, tests, fixtures, config, exports.
+Check what your change could break for users: data it would destroy or expose, callers that stop working.
+That is scope. Extra features are not.
+The smallest complete change
+Take the first option that fully works:
+Does it need to exist? Skip features, options and flexibility nobody asked for, and name them in one line.
+Already in this codebase (a helper, component, service, pattern)? Use it the way the surrounding code does.
+Standard library or a platform feature? Use it, unless the project has its own. A house component beats a native widget.
+An installed dependency? Use it. Never add a dependency for a few lines.
+Can it be one line a reader gets at a glance? One line.
+Otherwise: the minimum code that works.
+Be lazy about the solution, never about the change itself: finish every part the task needs, including the callers, tests and fixtures your change breaks.
+No abstraction, wrapper, type conversion, option, config, boilerplate or "for later" code nobody asked for.
+Keep values in the form the platform already gives you.
+Deletion beats addition.
+Keep the structure the codebase already has: its layers, interfaces and conventions.
+The shortest working diff wins, once you know everything it must touch.
+A one-liner that needs decoding is not short.
+Comment only the why the code cannot show, in one line.
+Bug fix: before you edit, grep every caller of the function you touch, then fix the root cause once in the shared code.
+Code you move or merge keeps its error handling and validation.
+Between options of equal size, take the one that is correct on edge cases.
+Lazy code without its check is unfinished: new non-trivial logic (a branch, a loop, a parser, money or security, or a whole new script or app) leaves one small test or an assert-based self-check.
+Trivial changes need none.
+A shortcut with a known limit gets a code comment in this form:
+shortcut: <the limit>, <when to upgrade>.
+Never cut:
+- Validation at trust boundaries.
+- Error handling that prevents data loss.
+- Security.
+- Accessibility.
+- Calibration real hardware needs.
+- Anything the user asked for.
+End your final report with one or two lines explaining what you skipped or did not check and any risk the user must know.
+4. PRIMARY BRAND IDENTITY — NEVER CHANGE
+Preserve the original Digital Aghaz logo and the existing brand identity.
+Official brand colours:
+- Red: #EA0400
+- Black: #000000
+- White: #FFFFFF
+- Charcoal: #111111
+- Neutral Grey: #858585
+- Soft Background: #F5F5F5
+Preserve:
+- Original logo image.
+- Logo proportions.
+- Brand typography identity.
+- Existing visual direction.
+- Manrope headings.
+- Inter body text.
+- Fira Code technical labels where useful.
+Do not introduce unrelated purple, blue, green or neon colour themes.
+Red must remain the main brand accent.
+Do not recreate the logo using ordinary text or replace it with a random icon.
+Compact logo fallback
+Where the full Digital Aghaz logo cannot fit, use a clean capital D monogram.
+Use a white D in suitable white-space areas and compact logo containers.
+The D must look like a professional brand monogram.
+Never distort the original logo.
+5. COMPLETE HOMEPAGE 3D EXPERIENCE
+THIS IS THE MOST IMPORTANT VISUAL UPGRADE.
+The existing Hero3D.tsx and Service3D.tsx components must be inspected and improved.
+Do not add a second independent 3D engine without first understanding the existing implementation.
+A. Main 3D concept
+Create a bespoke 3D object called:
+DIGITAL AGHAZ — DIGITAL GROWTH ENGINE.
+It should communicate:
+- Technology.
+- Creativity.
+- Digital transformation.
+- Business growth.
+- Connected services.
+- Innovation.
+Create a visually sophisticated sculptural technology core.
+Visual direction:
+- Dark metallic surfaces.
+- Premium brushed metal.
+- Smooth curved structures.
+- Interconnected geometric pathways.
+- Floating metallic rings.
+- Detailed mechanical elements.
+- Controlled red illumination.
+- White highlights.
+- Natural reflections.
+- Professional studio lighting.
+- Cinematic depth.
+It must look like a professional product visual, not a generic AI-generated futuristic object.
+B. Full homepage 3D experience
+The main 3D scene must remain part of the visual experience throughout the homepage.
+Do not show it only in the first hero section.
+Implement a persistent, scroll-responsive 3D experience across:
+1. Hero.
+2. Services.
+3. How We Work.
+4. Digital Solutions.
+5. Portfolio.
+6. Final CTA.
+Use a carefully designed sticky or layered 3D stage.
+The model should change its camera angle, position, rotation, lighting and visual focus as the visitor scrolls.
+Do not cover important text.
+Do not block navigation.
+Do not create a full-page fixed canvas that makes normal reading difficult.
+Keep the 3D scene behind the appropriate content layers.
+Provide interactive controls outside the canvas where needed.
+C. Six connected service objects
+The main 3D scene must communicate all six service categories.
+Create separate visual identities:
+1. Web Development
+2. A dimensional browser window with realistic layered interfaces.
+3. Mobile Applications
+4. A premium smartphone with realistic application screens.
+5. AI Automation
+6. An interconnected mechanical intelligence core with red light pathways.
+7. Graphic Design and Branding
+8. A sculptural design object with premium material finishes.
+9. SEO and Digital Marketing
+10. A sophisticated data and analytics structure.
+11. Video Production
+12. A cinematic camera and film-inspired 3D composition.
+When the visitor scrolls to a service or selects a service card, smoothly highlight its corresponding 3D object.
+Do not create six unrelated objects that look like they belong to different websites.
+All objects must share one coherent artistic direction.
+D. Commercially free 3D assets
+Use Poly Haven as the preferred external 3D asset library.
+Official resources:
+https://polyhaven.com/models
+https://polyhaven.com/license
+https://polyhaven.com/models/industrial-infrastructure
+https://polyhaven.com/
+All Poly Haven assets are CC0 according to its published licence.
+Select appropriate human-created assets such as:
+- Realistic laptop models.
+- Circuit boards.
+- Industrial electronic equipment.
+- Mechanical components.
+- Modular cables.
+- Studio lighting.
+- Professional environment maps.
+Download the actual assets.
+Inspect the model and its licence.
+Do not assume that every 3D model found on another website is commercially free.
+Do not use Khronos DamagedHelmet.glb as a commercial asset because its licence includes a non-commercial restriction.
+If using an attribution-requiring asset, preserve its required credit.
+Prefer CC0 assets.
+E. Custom procedural 3D elements
+Use the existing Three.js implementation to create custom:
+- Metallic rings.
+- Interconnected nodes.
+- Geometric structures.
+- Floating panels.
+- Smooth curved pathways.
+- Dimensional interface objects.
+Do not create unnecessarily complex geometry.
+The objective is premium visual quality with manageable rendering cost.
+F. 3D performance
+Implement:
+- Lazy loading.
+- Dynamic imports.
+- Optimised GLB/GLTF assets.
+- Compressed textures.
+- Reasonable polygon counts.
+- Proper renderer cleanup.
+- Resource disposal.
+- Device pixel-ratio limits.
+- Mobile rendering optimisation.
+- IntersectionObserver-based activity control.
+- Reduced-motion support.
+- Static image fallback.
+- WebGL error handling.
+Pause unnecessary animation when the scene is outside the viewport or the browser tab is inactive.
+Never allow a 3D error to break the whole website.
+6. PROFESSIONAL SERVICE IMAGES
+Replace broken, missing, repetitive and low-quality service images.
+Use these commercially usable Unsplash image resources after checking that each image loads correctly.
+Web Development:
+https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=85
+Mobile Applications:
+https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?auto=format&fit=crop&w=1200&q=85
+3D Experiences:
+https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=1200&q=85
+AI Automation:
+https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=85
+Graphic Design:
+https://images.unsplash.com/photo-1626785774573-4b799315345d?auto=format&fit=crop&w=1200&q=85
+SEO and Marketing:
+https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=85
+Requirements:
+- Download and optimise selected images.
+- Prefer AVIF or WebP.
+- Save them locally under the existing public image structure.
+- Use appropriate responsive dimensions.
+- Use descriptive filenames.
+- Add meaningful alt text.
+- Maintain consistent image aspect ratios.
+- Use appropriate image cropping.
+- Add refined hover transitions.
+- Never stretch images.
+- Do not use the same picture for every service.
+- Do not display broken-image icons.
+If an image is unavailable, search for a suitable alternative from the same commercially permitted source.
+Do not use paid stock photography or paid 3D assets.
+7. UI/UX TYPOGRAPHY — MAKE THE WEBSITE EASY TO READ
+The current website has oversized and excessively bold text.
+Improve its typography across every page.
+Use the following comfortable scale as the starting point:
+H1:
+clamp(1.85rem, 3.2vw, 2.75rem)
+Font weight 600.
+Line height 1.25.
+H2:
+clamp(1.4rem, 2.2vw, 2rem)
+Font weight 600.
+Line height 1.3.
+H3:
+1.15rem–1.25rem.
+Font weight 500.
+Body:
+0.95rem–1.05rem.
+Font weight 400.
+Line height 1.65.
+Small labels:
+0.8rem–0.9rem.
+Use comfortable line lengths.
+Avoid unnecessary uppercase text.
+Avoid excessive boldness.
+Avoid extremely tight letter spacing.
+Use proper paragraph spacing.
+Do not make all content the same size.
+Use visual hierarchy through spacing, colour and font weight rather than giant text.
+Simple English requirement
+Rewrite difficult website text into everyday English.
+The website must be easy to understand for:
+- Beginners.
+- Small business owners.
+- Non-technical people.
+- International visitors.
+- People with basic English.
+Examples:
+Instead of:
+"Orchestrating next-generation spatial WebGL ecosystems."
+Write:
+"We create modern websites and interactive digital experiences."
+Instead of:
+"Bespoke visual identity architecture."
+Write:
+"We create logos and designs that help people recognise your brand."
+Instead of:
+"Autonomous neural workflow orchestration."
+Write:
+"We build smart AI tools that help reduce repeated work."
+Use short sentences.
+Explain technical words when necessary.
+Do not remove useful information simply to make text shorter.
+8. ENGLISH AND SIMPLE URDU LANGUAGE SYSTEM
+Implement a fully working language switcher:
+EN | اردو
+Place it in the main navigation.
+Requirements:
+- English as the default language.
+- Urdu as the second language.
+- Persist the selection using localStorage.
+- Restore the selected language after refresh.
+- Change the HTML language attribute.
+- Change the document direction.
+- Use LTR for English.
+- Use RTL for Urdu.
+For Urdu, use:
+Noto Nastaliq Urdu.
+Provide suitable fallbacks.
+Use comfortable Urdu line spacing.
+Do not merely translate the homepage.
+Translate the complete user-facing website:
+- Navigation.
+- Homepage.
+- Service descriptions.
+- Buttons.
+- Portfolio labels.
+- Forms.
+- Validation messages.
+- FAQ.
+- Footer.
+- Notifications.
+- Popup content.
+- Contact information labels.
+- Blog and insight interface.
+Use natural, everyday Pakistani Urdu.
+Avoid difficult literary Urdu.
+Preserve technical terms such as AI, SEO and UI/UX where they are easier to understand in English, and explain them in simple Urdu when useful.
+Example:
+English:
+"We build modern websites, mobile apps and smart AI tools to help your business grow."
+Urdu:
+"ہم آپ کے کاروبار کو آگے بڑھانے کے لیے جدید ویب سائٹس، موبائل ایپس اور آسان AI ٹولز بناتے ہیں۔"
+English CTA:
+Start Your Project.
+Urdu CTA:
+اپنا پروجیکٹ شروع کریں۔
+Make sure the Urdu layout does not break cards, navigation, images, forms or buttons.
+9. LIGHT AND DARK THEME SYSTEM
+Add a working theme switcher in the navigation.
+Provide:
+- Dark Mode.
+- Light Mode.
+Remember the visitor's selection using localStorage.
+Respect the operating system's initial theme preference when no preference has been saved.
+Dark theme
+Preserve the existing dark visual direction.
+Use:
+- Black backgrounds.
+- Charcoal surfaces.
+- White text.
+- Red highlights.
+- Subtle borders.
+- Controlled 3D illumination.
+Light theme
+Use eye-friendly colours:
+Main background: #F8FAFC.
+Cards: #FFFFFF.
+Main text: #0F172A.
+Secondary text: #475569.
+Borders: #E2E8F0.
+Keep the exact original brand red #EA0400.
+Do not change the official logo.
+Do not use pure black text on every element unnecessarily.
+Maintain accessible contrast.
+All components must respond correctly to both themes:
+- Navigation.
+- Footer.
+- Cards.
+- Buttons.
+- Forms.
+- Modals.
+- Charts.
+- Portfolio.
+- Blog.
+- Admin interface.
+Prevent a flash of the wrong theme during page loading.
+10. FIX THE NON-ANIMATING GRAPH
+Locate the existing performance or growth chart.
+Inspect its current data, rendering logic and animation triggers.
+Fix the actual cause rather than adding a second chart.
+When the chart enters the viewport:
+- Animate the SVG line.
+- Animate the chart bars.
+- Animate numerical counters.
+- Introduce a subtle grid reveal.
+- Use a smooth easing curve.
+- Run the animation once unless replay is useful.
+Use IntersectionObserver where appropriate.
+For SVG lines, use stroke-dasharray and stroke-dashoffset.
+For bars, animate their actual target values.
+For counters, animate from the starting value to the existing data.
+IMPORTANT:
+Do not invent growth percentages, conversion improvements, revenue numbers or client performance statistics.
+If the existing graph contains demonstration data, clearly label it as illustrative.
+Use real verified business data for factual claims.
+Support reduced-motion preferences.
+11. REMOVE UNWANTED IP AND CODE OWNERSHIP CONTENT
+Search every frontend page and reusable component for unnecessary sections mentioning:
+- IP & Code Ownership.
+- 100% IP Transfer.
+- Source Code Escrow.
+- NDA and Legal Compliance marketing claims.
+- Complicated ownership and contract marketing language.
+Remove these unnecessary marketing blocks and their associated cards, badges and footer references as requested.
+Keep the website focused on:
+- Services.
+- Creative work.
+- Portfolio.
+- Business benefits.
+- Project process.
+- Contact.
+Do not delete essential privacy, data protection, security or legally required website information.
+Do not delete backend security controls.
+Do not remove actual terms that protect customer information.
+12. ADVANCED MOTION AND ANIMATION
+Improve the entire website using the existing installed animation dependencies wherever possible.
+Create a consistent motion system.
+Implement:
+- Homepage hero entrance.
+- Smooth section reveals.
+- Text-mask animation.
+- Word-by-word headline reveals.
+- Image clip reveals.
+- Service-card transitions.
+- Portfolio hover effects.
+- Navigation animations.
+- Mobile menu transitions.
+- Scroll-triggered 3D movement.
+- Animated buttons.
+- Animated icons.
+- Modal entrances.
+- Toast notifications.
+- FAQ transitions.
+- Chart animation.
+- Page transitions.
+Use the existing animation library if suitable.
+Do not install another dependency unnecessarily.
+Animations must be:
+- Smooth.
+- Fast enough for usability.
+- Consistent.
+- Responsive.
+- Accessible.
+- Performance-conscious.
+Avoid excessive motion.
+Do not hide important information until animation completes.
+13. ADMIN PORTAL — FIX EMAIL MAGIC LINK
+The existing admin portal already has magic-link authentication routes.
+Investigate why the admin email magic link does not arrive.
+Inspect:
+- Existing email.ts.
+- Supabase configuration.
+- Authentication settings.
+- Request-link route.
+- Verification route.
+- Redirect URLs.
+- Cookie handling.
+- Email provider configuration.
+- Server logs.
+- Rate limits.
+- Environment variable names.
+Do not create a second authentication system if the existing system can be fixed.
+Admin email
+Read the authorised admin email from a protected server-side environment variable:
+ADMIN_EMAIL
+Never hardcode it into the public frontend.
+Only the authorised administrator should be able to request an admin magic link.
+Email delivery
+Prefer Resend's free transactional email tier where suitable.
+Official website:
+https://resend.com/
+Use a verified sending domain.
+Configure the correct sender address.
+Validate the email provider response.
+Check the actual delivery failure rather than showing a false success.
+Magic link workflow
+1. Admin enters the authorised email.
+2. Server validates the email against the admin allowlist.
+3. Generate a cryptographically secure, short-lived, single-use token using the existing authentication mechanism.
+4. Send the magic link through the configured email provider.
+5. Verify the token securely.
+6. Create an HTTP-only session cookie.
+7. Redirect to the protected admin dashboard.
+8. Expire or invalidate the token after use.
+9. Provide a proper logout mechanism.
+Check Supabase authorised redirect URLs and email provider configuration.
+Do not send secrets or authentication tokens to analytics.
+Do not print live magic links or authentication tokens in production logs.
+Development fallback
+If email credentials are unavailable during local development, provide a safe development-only diagnostic.
+It may expose a development magic link only when:
+- NODE_ENV is development.
+- A separate explicit development flag is enabled.
+- The request is local.
+- The feature is completely disabled in production.
+Never expose a master PIN, fixed password or bypass route in production.
+Never disable authentication to make the admin dashboard easier to access.
+IMPORTANT:
+Do not create public customer sign-up or sign-in pages.
+Do not introduce customer accounts.
+Keep authentication restricted to the private administrator portal.
+14. ADMIN DASHBOARD
+Improve the existing admin dashboard rather than replacing its entire structure.
+It should be simple, professional and easy to operate.
+Include:
+- Dashboard overview.
+- New project inquiries.
+- Total saved leads.
+- Lead details.
+- Lead search.
+- Lead filters.
+- Lead status.
+- Customer contact details.
+- Internal notes.
+- Date filters.
+- Inquiry history.
+- Email notification status.
+Use the existing Supabase database and lead storage architecture.
+Maintain data compatibility.
+Do not delete or overwrite existing leads.
+If migration from .leads_data.json is needed:
+1. Back up the original file.
+2. Inspect the data structure.
+3. Validate each record.
+4. Import without duplicates.
+5. Confirm record counts.
+6. Preserve the original backup.
+7. Verify all imported data.
+Do not expose customer inquiries publicly.
+15. EMAIL NOTIFICATIONS
+Ensure the website can send:
+A. New project inquiry notification to the agency administrator.
+B. Confirmation email to the customer.
+C. Admin magic-link email.
+Use the existing email integration where possible.
+Use Resend's free plan if it meets the requirements.
+Official pricing:
+https://resend.com/pricing/
+The current advertised free allowance is 3,000 emails per month, subject to a 100-email daily limit and the provider's terms.
+Configure environment variables on the server.
+Never place an API key in browser code.
+Save the inquiry to the database before reporting success.
+If the email provider fails after the inquiry has been saved, preserve the inquiry and report the email failure appropriately.
+Do not lose a customer lead because email delivery temporarily fails.
+16. DATABASE AND ZERO-COST REQUIREMENT
+Use the existing Supabase integration.
+Preferred database:
+Supabase PostgreSQL Free Plan.
+Official pricing:
+https://supabase.com/pricing
+Use existing migrations and tables where suitable.
+Do not create duplicate database structures unnecessarily.
+Keep the database secure.
+Implement appropriate row-level security.
+Protect private customer inquiries.
+Do not expose the service-role key.
+Do not introduce paid databases, paid APIs, paid image libraries, paid 3D models or paid animation plugins.
+Use free/open-source libraries and available free service tiers.
+Before adding any external service, verify that its required feature is available on its free plan.
+Never silently enable paid usage or paid overages.
+Document usage limits and possible free-tier interruptions.
+17. SEO AND WEBSITE STRUCTURE
+Preserve the existing routes, metadata, sitemap and robots implementation.
+Improve:
+- Unique page titles.
+- Unique descriptions.
+- Canonical URLs.
+- Open Graph information.
+- Image alt text.
+- Semantic HTML.
+- Internal linking.
+- Structured data.
+- Sitemap.
+- Robots directives.
+- Mobile rendering.
+- Page performance.
+Do not invent ratings, reviews, business addresses or company statistics.
+Keep the main content crawlable.
+Do not block search engines from public service pages.
+Protect private admin routes from indexing.
+18. ACCESSIBILITY
+Ensure:
+- Keyboard navigation.
+- Visible focus indicators.
+- Proper form labels.
+- Accessible dropdowns.
+- Accessible modals.
+- Correct colour contrast.
+- Screen-reader-friendly text.
+- Proper heading order.
+- Reduced-motion support.
+- Mobile touch targets.
+All major website features must work even when animations are disabled.
+19. SECURITY — NEVER COMPROMISE
+Perform a complete security review.
+Inspect existing:
+- API routes.
+- Authentication.
+- Email delivery.
+- Database access.
+- File uploads.
+- Environment variables.
+- Cookies.
+- Lead submissions.
+- Admin authorisation.
+- Rate limiting.
+Implement or verify:
+- Server-side validation.
+- Input sanitisation.
+- Output escaping.
+- Secure authentication.
+- Authorisation on every protected API.
+- HTTP-only cookies.
+- Secure and SameSite cookie settings.
+- Token expiration.
+- Single-use magic links.
+- Rate limiting.
+- CSRF protection where appropriate.
+- SQL injection protection.
+- XSS protection.
+- Secure file upload validation.
+- Safe error messages.
+- Security headers.
+- Content Security Policy.
+- Secret management.
+Never trust a frontend-only admin check.
+Never allow a public visitor to retrieve private lead records.
+Never place Supabase service-role credentials in client-side code.
+Never expose database connection strings.
+Never commit .env.local.
+Never log passwords, API keys, magic links or private tokens.
+Do not introduce fixed passwords, master PINs or authentication bypasses.
+Keep the admin portal private and protected.
+20. RESPONSIVE DESIGN
+Test the full website at:
+- 360px mobile.
+- 390px mobile.
+- 430px mobile.
+- Tablet.
+- Laptop.
+- Desktop.
+- Large desktop.
+Ensure:
+- No horizontal overflow.
+- No clipped text.
+- No broken Urdu alignment.
+- No oversized headings.
+- No stretched images.
+- No inaccessible menus.
+- No broken 3D canvas.
+- No overlapping CTAs.
+21. PERFORMANCE
+Aim for Google's good Core Web Vitals thresholds:
+- LCP: 2.5 seconds or less.
+- INP: below 200 milliseconds.
+- CLS: below 0.1.
+Optimise:
+- Images.
+- Fonts.
+- JavaScript.
+- CSS.
+- 3D rendering.
+- Animation.
+- API requests.
+- Caching.
+- Rendering.
+Use dynamic imports and code splitting where they actually improve performance.
+Do not sacrifice mobile performance for desktop visual effects.
+22. TESTING
+After each major change:
+- Run TypeScript checks.
+- Run lint.
+- Run the production build.
+- Test affected routes.
+- Test form submissions.
+- Test admin authentication.
+- Test email configuration.
+- Test database permissions.
+- Test theme switching.
+- Test Urdu translation.
+- Test RTL layout.
+- Test the 3D scene.
+- Test graph animation.
+- Test mobile responsiveness.
+- Test reduced-motion behaviour.
+Fix real errors.
+Do not hide warnings or suppress failures unnecessarily.
+Do not report a feature as working until it has actually been tested.
+23. FINAL DELIVERABLES
+Provide the completed project with:
+1. Improved homepage 3D experience.
+2. Six connected 3D service visuals.
+3. Professional service photography.
+4. Optimised local image assets.
+5. Improved typography.
+6. Simple English throughout.
+7. Complete simple Urdu language option.
+8. RTL support.
+9. Working light and dark themes.
+10. Animated performance graph.
+11. Updated animation system.
+12. Fixed admin magic-link delivery.
+13. Protected admin dashboard.
+14. Working inquiry email notifications.
+15. Existing Supabase database preserved and improved.
+16. Secure lead storage.
+17. Updated SEO implementation.
+18. Improved mobile responsiveness.
+19. Security verification.
+20. Production build and testing report.
+Also provide:
+- Updated source files.
+- Any required SQL migration.
+- .env.example with variable names only.
+- Setup instructions.
+- Free-tier service configuration.
+- Asset licence notes.
+- Deployment instructions.
+- Remaining configuration requirements.
+FINAL CREATIVE DIRECTION
+Digital Aghaz must look like a professionally art-directed international digital agency.
+It must not look like a generic template.
+Its visual identity must remain:
+BLACK + WHITE + DIGITAL AGHAZ RED.
+The website must be beautiful but easy to understand.
+It must be advanced but not difficult to use.
+It must be interactive but not distracting.
+It must be professional but welcoming.
+It must be responsive, secure and fast.
+It must provide a beautiful experience to both English and Urdu readers.
+The 3D experience must be distinctive and must communicate the agency's services.
+Do not create unnecessary features.
+Do not replace working architecture.
+Do not lose existing customer data.
+Do not add paid dependencies or paid services.
+Work through the project in controlled stages, make the actual code changes, test them, and report the real results.
+DIGITAL AGHAZ
+CREATE. INNOVATE. GROW.) and also add the chatbot which will tell about the agency that what we provide which is given in the pdf and also check the security threat which is also present in the pdf and here is the sample so check it out then create for me the most professional and accurate level of website for me like the top 1 agency in the world and then deploy the code and give me the link to view and keep in mind i want that you should create for the most professional level of website if you didnot create for me that website then i will tell to chatgpt to create for me so do the best and create for me the website
